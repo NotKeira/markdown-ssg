@@ -15,3 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic source entry point (src/index.ts)
 - README with installation and usage documentation
 - TODO with planned features, including MDX support
+- Core source structure (cli, builder, parser, types)
+- CLI entry point with argument parsing
+- Version reading from package.json
+- Type definitions for build options and parsed files
